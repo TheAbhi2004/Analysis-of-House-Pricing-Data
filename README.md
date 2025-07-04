@@ -99,5 +99,5 @@ The plot shows a positive linear trend between square footage above ground and h
 ## 📂 Folder Structure
 .
 ├── housing.csv
-├── house_price_analysis.ipynb
+├── Data Analytics for House Pricing Data Set.ipynb
 └── README.md
